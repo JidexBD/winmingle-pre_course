@@ -1,1 +1,1 @@
-My first readme
+My first Repository for Winmingle Software Engineering SE Training
